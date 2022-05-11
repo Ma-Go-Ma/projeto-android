@@ -44,13 +44,13 @@ header > p{
     margin: auto;
     padding: 0px 10px 0px 10px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.495);
-    padding-bottom: 15px;
+    padding-bottom: 50px;
 }
 header > h1{
     color: white;
     font-weight: normal;
     font-family: var(--fonte-destaque);
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     font-size: 3em;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.574);
 }
